@@ -1,0 +1,9 @@
+{
+    "categorias":[
+        {
+            "nome":"Front End",
+            "descricao":"Uma categoria shoohs",
+            "cor": "#cdb1ff"
+        }
+    ]
+}

@@ -1,0 +1,675 @@
+{
+    "categorias": [{
+            "titulo": "Tapetes",
+            "link": "https://www.alura.com.br/formacao-front-end",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Tapetes feitos de crochê para você aprender",
+                "url": "https://www.alura.com.br/cursos-online-front-end"
+            },
+            "videos": [{
+                    "titulo": "TAPETE DE CROCHÊ SIMPLES RETANGULAR",
+                    "url": "https://www.youtube.com/watch?v=MiKCwFjQA6E",
+                    "descricao": "Lindo tapete retangular para sua sala, simples de fazer e lindo de ver"
+                },
+                {
+                    "titulo": "Tapete Econômico em Crochê",
+                    "url": "https://www.youtube.com/watch?v=cVKsB3w10n0"
+                },
+                {
+                    "titulo": "Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=ZQM1GS3uDz8"
+                },
+                {
+                    "titulo": "TAPETE OVAL FÁCIL/RÁPIDO/ECONÔMICO PARA VENDER MUITO!!!",
+                    "url": "https://www.youtube.com/watch?v=Ap7uaQCHt84"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ FÁCIL E ECONÔMICO",
+                    "url": "https://www.youtube.com/watch?v=fkONWxHfTBM"
+                },
+                {
+                    "titulo": "Tapete de crochê com hexágonos e COSTURA INVISÍVEL",
+                    "url": "https://www.youtube.com/watch?v=DdY53eZzdws"
+                },
+                {
+                    "titulo": "Jogo de Cozinhɑ Retɑngulɑr Simples e Fácil",
+                    "url": "https://www.youtube.com/watch?v=IpPLfbUQF8E"
+                },
+                {
+                    "titulo": "Tapete de crochê modelo OVAL FÁCIL e ECONÔMICO - VENDE VENDE 1/2",
+                    "url": "https://www.youtube.com/watch?v=-VZ6D5l8IWI"
+                },
+                {
+                    "titulo": "COMO FAZER O CROCHÊ CIRCULAR /APRENDENDOCROCHÊ",
+                    "url": "https://www.youtube.com/watch?v=vrAeM6vYl4g"
+                },
+                {
+                    "titulo": "Por que meu tapete de crochê fica torto? Dica fácil para corrigir",
+                    "url": "https://www.youtube.com/watch?v=YbEKoz55qHs"
+                },
+                {
+                    "titulo": "Tapete retangular ECONÔMICO e FÁCIL - Passo a passo",
+                    "url": "https://www.youtube.com/watch?v=xsa8OPS1pkM"
+                },
+                {
+                    "titulo": "Como fazer tapete OVAL PERFEITO em crochê + dicas para AUMENTAR ou DIMINUIR um TAPETE OVAL",
+                    "url": "https://www.youtube.com/watch?v=qRMjfKM647o"
+                },
+                {
+                    "titulo": "Crochê Para Iniciantes Tapete em Quadrados 1",
+                    "url": "https://www.youtube.com/watch?v=Slej9BzdZI8"
+                },
+                {
+                    "titulo": "Tapete Fácil Aula para Iniciante Crochê Passo a Passo",
+                    "url": "https://www.youtube.com/watch?v=tvLYfLKlo94"
+                },
+                {
+                    "titulo": "VIDEOAULA TAPETE MEGA (FÁCIL, RÁPIDO E ECONÔMICO) #UlissesBalder",
+                    "url": "https://www.youtube.com/watch?v=HJmi86faQG4"
+                },
+                {
+                    "titulo": "Tapete de crochê simples e fácil para iniciantes - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=-D4hi_Co2vY"
+                },
+                {
+                    "titulo": "TAPETE REDONDO MAIS FÁCIL QUE EXISTE",
+                    "url": "https://www.youtube.com/watch?v=rMMkzUGhbzw"
+                },
+                {
+                    "titulo": "FLOR DE CROCHÊ RÁPIDA E SIMPLES",
+                    "url": "https://www.youtube.com/watch?v=mrGlQ-BTz8k"
+                },
+                {
+                    "titulo": "✨Como fazer o ponto alto - Aula #2 | curso de crochê para iniciantes | passo a passo",
+                    "url": "https://www.youtube.com/watch?v=dKObA3-W1U0"
+                },
+                {
+                    "titulo": "Anel Mágico no Crochê - Aprendendo Crochê",
+                    "url": "https://www.youtube.com/watch?v=__8zgF7xX3w"
+                },
+                {
+                    "titulo": "TAPETE DE  CROCHÊ  MARCELA FÁCIL",
+                    "url": "https://www.youtube.com/watch?v=Fo4NuUsR0lc"
+                },
+                {
+                    "titulo": "Tapete BEM-VINDO em crochê com ponto pipoca - Passo a passo 1/4",
+                    "url": "https://www.youtube.com/watch?v=GRWPTRJKjc8"
+                },
+                {
+                    "titulo": "Ponto para Tapete em Crochê - Lindo e Fácil - Por Marcelo Nunes",
+                    "url": "https://www.youtube.com/watch?v=FIM5ZM-Xrh8"
+                },
+                {
+                    "titulo": "Tapete Quadradinhos em crochê fácil  - Passo a passo completo!",
+                    "url": "https://www.youtube.com/watch?v=928g6xUKzyY"
+                },
+                {
+                    "titulo": "Tapete de crochê simples passo a passo  | Geométrico - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=yleHntkTyc0"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ PARA INICIANTE SIMPLES E FÁCIL | JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=k8cORXsrYfg"
+                }
+            ]
+        },
+        {
+            "titulo": "Roupas de Crochê",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Roupas feitas de crochê",
+                "url": "https://www.alura.com.br/cursos-online-programacao"
+            },
+            "videos": [{
+                    "titulo": "Cropped de crochê | para iniciantes - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=NUAdFKmS6i0"
+                },
+                {
+                    "titulo": "Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=ZQM1GS3uDz8"
+                },
+                {
+                    "titulo": "ROUPA PARA CACHORRO EM CROCHÊ TAMANHO P | Clarisse Froner",
+                    "url": "https://www.youtube.com/watch?v=4xnbau-Pn7s"
+                },
+                {
+                    "titulo": "VESTIDO FÁCIL SQUARE - crochê",
+                    "url": "https://www.youtube.com/watch?v=rn5aiFPkIRs"
+                },
+                {
+                    "titulo": "Conjunto em Crochê das Blogueiras Parte 1 - O mais usado do verão",
+                    "url": "https://www.youtube.com/watch?v=V2JiqKiRG7Y"
+                },
+                {
+                    "titulo": "Vestido Evânia em crochê (tamanho 6 a 9 meses)",
+                    "url": "https://www.youtube.com/watch?v=pmC7CN8ZO0A"
+                },
+                {
+                    "titulo": "SHORT MELISSA EM CROCHÊ - PASSO A PASSO",
+                    "url": "https://www.youtube.com/watch?v=U0nmII3AqE0"
+                },
+                {
+                    "titulo": "Cropped de Crochê",
+                    "url": "https://www.youtube.com/watch?v=Pm9twLpHPi8"
+                },
+                {
+                    "titulo": "VESTIDO CIGANINHA EM CROCHÊ E TECIDO - HENRIQUE SILVA TV",
+                    "url": "https://www.youtube.com/watch?v=-M5vL_0__r4"
+                },
+                {
+                    "titulo": "BLUSA FÁCIL PARA INICIANTES | CROCHÊ",
+                    "url": "https://www.youtube.com/watch?v=lOwpp7bKPDw"
+                },
+                {
+                    "titulo": "TOP DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=NRCOOqjpAoI"
+                },
+                {
+                    "titulo": "Vestido de crochê em quadradinho parte 1º com Viviane Santos",
+                    "url": "https://www.youtube.com/watch?v=9n0dzVwJc_4"
+                },
+                {
+                    "titulo": "VESTIDO OU SAÍDA DE PRAIA DE CROCHÊ Fácil e Rápido|Jislaine Silva #semprecirculo #croche",
+                    "url": "https://www.youtube.com/watch?v=zw0x6dv8igE"
+                },
+                {
+                    "titulo": "VESTIDO DE CROCHE - FORÇA DO QUERER- PRIMEIRA PARTE",
+                    "url": "https://www.youtube.com/watch?v=fzum4uGvCcQ"
+                },
+                {
+                    "titulo": "Croche passo a passo  Bico de croche em roupa   short",
+                    "url": "https://www.youtube.com/watch?v=dcMER2hrEu4"
+                },
+                {
+                    "titulo": "VESTIDO DE FESTA CHEVRON FÁCIL  EM CROCHÊ (MODELAGEM SERVE PARA BLUSA TAMBÉM)",
+                    "url": "https://www.youtube.com/watch?v=K493pulckPI"
+                },
+                {
+                    "titulo": "Vestido de croche pipoca parte 1 destros",
+                    "url": "https://www.youtube.com/watch?v=cDf75p5XDVA"
+                },
+                {
+                    "titulo": "Vestido/Saída de praia em crochê - Parte 1",
+                    "url": "https://www.youtube.com/watch?v=a1gN_-0H12Q"
+                },
+                {
+                    "titulo": "Curso de Tricô Para Iniciantes :: Aula 01",
+                    "url": "https://www.youtube.com/watch?v=7hzTvlME5Wg"
+                },
+                {
+                    "titulo": "Curso de Tricô Para Iniciantes :: Aula 02 Montagem no Tricô",
+                    "url": "https://www.youtube.com/watch?v=q7bSg6BRGF0"
+                },
+                {
+                    "titulo": "✨Como fazer o ponto alto - Aula #2 | curso de crochê para iniciantes | passo a passo",
+                    "url": "https://www.youtube.com/watch?v=dKObA3-W1U0"
+                },
+                {
+                    "titulo": "Vestido de Crochê Capixaba passo a passo Prof. Simone Eleotério",
+                    "url": "https://www.youtube.com/watch?v=S43UnFily6k"
+                },
+                {
+                    "titulo": "Cauda vestido de noiva crochê irlandês passo a passo",
+                    "url": "https://www.youtube.com/watch?v=NVwiPBvnlDA"
+                },
+                {
+                    "titulo": "Boneca Eloá Amigurumi | Parte 2 -  Vestido",
+                    "url": "https://www.youtube.com/watch?v=Ngeoo9fgdK4"
+                },
+                {
+                    "titulo": "Roupa PET em Crochê passo a passo professora Simone Eleoterio",
+                    "url": "https://www.youtube.com/watch?v=uTvIZvbVRRw"
+                }
+            ]
+        },
+        {
+            "titulo": "Crochê para iniciantes",
+            "cor": "#9cd33b",
+            "link_extra": {
+                "text": "Crochê para quem está apenas começando",
+                "url": "https://www.alura.com.br/formacao-data-science"
+            },
+            "videos": [{
+                    "titulo": "Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=ZQM1GS3uDz8"
+                },
+                {
+                    "titulo": "Aula de Crochê para iniciantes",
+                    "url": "https://www.youtube.com/watch?v=6FPY3_ADW2E"
+                },
+                {
+                    "titulo": "CROCHÊ PARA INICIANTES | Correntinha, ponto alto e ponto baixo",
+                    "url": "https://www.youtube.com/watch?v=j2aWuibgLSg"
+                },
+                {
+                    "titulo": "Crochê para iniciantes - Aprenda Crochê do Zero - Pontos Básicos e Fundamentais por Marcelo Nunes",
+                    "url": "https://www.youtube.com/watch?v=cgiycyM5kFs"
+                },
+                {
+                    "titulo": "COMO FAZER O CROCHÊ CIRCULAR /APRENDENDOCROCHÊ",
+                    "url": "https://www.youtube.com/watch?v=vrAeM6vYl4g"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ SIMPLES RETANGULAR",
+                    "url": "https://www.youtube.com/watch?v=MiKCwFjQA6E&t=97s"
+                },
+                {
+                    "titulo": "AULA 8: COMO FAZER QUADRADO SIMPLES | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=7bpeaouqKcE"
+                },
+                {
+                    "titulo": "Jogo de Cozinhɑ Retɑngulɑr Simples e Fácil",
+                    "url": "https://www.youtube.com/watch?v=IpPLfbUQF8E"
+                },
+                {
+                    "titulo": "AULA 3: PONTO BAIXO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=J5vof2o91yM"
+                },
+                {
+                    "titulo": "Croché - Pontos básicos - Ponto cadeia",
+                    "url": "https://www.youtube.com/watch?v=0hZ_2Vmtztg"
+                },
+                {
+                    "titulo": "AULA 1: KIT BÁSICO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=lgAarivNLJU"
+                },
+                {
+                    "titulo": "Tapete Fácil Aula para Iniciante Crochê Passo a Passo",
+                    "url": "https://www.youtube.com/watch?v=tvLYfLKlo94"
+                },
+                {
+                    "titulo": "Tapete de crochê simples e fácil para iniciantes - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=-D4hi_Co2vY"
+                },
+                {
+                    "titulo": "Croché para iniciantes 01 (Crocheting for dummies 01)",
+                    "url": "https://www.youtube.com/watch?v=1s2BPCCQOyk"
+                },
+                {
+                    "titulo": "✨Toalhinha de crochê - Parte 1 | Crochê para iniciantes - Wagner Reis",
+                    "url": "https://www.youtube.com/watch?v=e5kf9xg6bHQ"
+                },
+                {
+                    "titulo": "Amigurumi para iniciantes - Pontos básicos | Por Jessica Santos",
+                    "url": "https://www.youtube.com/watch?v=hROuJGgA3og"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ PARA INICIANTE SIMPLES E FÁCIL | JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=k8cORXsrYfg"
+                },
+                {
+                    "titulo": "Jogo de Cozinhɑ Retɑngulɑr Simples e Fácil",
+                    "url": "https://www.youtube.com/watch?v=IpPLfbUQF8E"
+                },
+                {
+                    "titulo": "MINI CORAÇÃO EM CROCHÊ - APRENDENDO CROCHÊ",
+                    "url": "https://www.youtube.com/watch?v=wbmgQU2--rU"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ FÁCIL E ECONÔMICO",
+                    "url": "https://www.youtube.com/watch?v=fkONWxHfTBM"
+                },
+                {
+                    "titulo": "✨Como fazer o ponto alto - Aula #2 | curso de crochê para iniciantes | passo a passo",
+                    "url": "https://www.youtube.com/watch?v=dKObA3-W1U0"
+                },
+                {
+                    "titulo": "Bicos de crochê simples, fácil e rápido para iniciantes | AULA 1 - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=1P_gEZKMJwE"
+                },
+                {
+                    "titulo": "TOALHINHA EM CROCHÊ FÁCIL 001 - AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=jb8RtWP675c"
+                },
+                {
+                    "titulo": "SOUSPLAT EM CROCHÊ simples, fácil e muito econômico  - passo a passo",
+                    "url": "https://www.youtube.com/watch?v=3KJu3Tty5e4"
+                },
+                {
+                    "titulo": "Cropped de crochê | para iniciantes - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=NUAdFKmS6i0"
+                },
+                {
+                    "titulo": "#Live-15 Pontos Básicos Do Crochê | Dicas Para iniciantes",
+                    "url": "https://www.youtube.com/watch?v=_RsqSNxvGgQ"
+                }
+            ]
+        },
+        {
+            "titulo": "Crochê ponto alto",
+            "cor": "orange",
+            "videos": [{
+                    "titulo": "✨Como fazer o ponto alto - Aula #2 | curso de crochê para iniciantes | passo a passo",
+                    "url": "https://www.youtube.com/watch?v=dKObA3-W1U0"
+                },
+                {
+                    "titulo": "AULA 4: PONTO ALTO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=voNB2MvNxLU"
+                },
+                {
+                    "titulo": "CROCHÊ PARA INICIANTES | Correntinha, ponto alto e ponto baixo",
+                    "url": "https://www.youtube.com/watch?v=j2aWuibgLSg"
+                },
+                {
+                    "titulo": "COMO FAZER PONTO ALTO CROCHÊ DE MODO CORRETO TUTORIAL MARLY THIBES",
+                    "url": "https://www.youtube.com/watch?v=nfOL3sb7vk8"
+                },
+                {
+                    "titulo": "Ponto Alto | Curso Amigurumi Básico #6",
+                    "url": "https://www.youtube.com/watch?v=RZE1qtNgXO8"
+                },
+                {
+                    "titulo": "Crochê para iniciantes - Aprenda Crochê do Zero - Pontos Básicos e Fundamentais por Marcelo Nunes",
+                    "url": "https://www.youtube.com/watch?v=cgiycyM5kFs"
+                },
+                {
+                    "titulo": "COMO FAZER O CROCHÊ CIRCULAR /APRENDENDOCROCHÊ",
+                    "url": "https://www.youtube.com/watch?v=vrAeM6vYl4g"
+                },
+                {
+                    "titulo": "AULA 9: COMO FAZER AUMENTOS E DIMINUIÇÕES | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=aytycL8GTnk"
+                },
+                {
+                    "titulo": "AULA 1: KIT BÁSICO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=lgAarivNLJU"
+                },
+                {
+                    "titulo": "Ponto Médio, Alto, Alto Duplo e Triplo - Iniciando o Crochê",
+                    "url": "https://www.youtube.com/watch?v=CqtRSaiadP0"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ SIMPLES RETANGULAR",
+                    "url": "https://www.youtube.com/watch?v=MiKCwFjQA6E&t=97s"
+                },
+                {
+                    "titulo": "Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=ZQM1GS3uDz8"
+                },
+                {
+                    "titulo": "Ponto Alto do Crochê para iniciantes #Aula 2 Crochê para iniciantes",
+                    "url": "https://www.youtube.com/watch?v=hGCTTNnkNVI"
+                },
+                {
+                    "titulo": "PONTO ALTO DUPLO CROCHÊ",
+                    "url": "https://www.youtube.com/watch?v=hNcVnVaXNjE"
+                },
+                {
+                    "titulo": "PONTO ALTO CROCHÊ SEM LAÇADAS TUTORIAL MARLY THIBES",
+                    "url": "https://www.youtube.com/watch?v=L3JgfjXMSkc"
+                },
+                {
+                    "titulo": "Pontos Básicos do Crochê - Ponto Alto",
+                    "url": "https://www.youtube.com/watch?v=r-tFnVnPhNo"
+                },
+                {
+                    "titulo": "AULA 5: MEIO PONTO ALTO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=KETfpt3qopo"
+                },
+                {
+                    "titulo": "Como fazer  ponto alto em crochê",
+                    "url": "https://www.youtube.com/watch?v=VqGBYf8Xe3I"
+                },
+                {
+                    "titulo": "Jogo de Cozinhɑ Retɑngulɑr Simples e Fácil",
+                    "url": "https://www.youtube.com/watch?v=IpPLfbUQF8E"
+                },
+                {
+                    "titulo": "AULA 1: KIT BÁSICO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=lgAarivNLJU"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ FÁCIL E ECONÔMICO",
+                    "url": "https://www.youtube.com/watch?v=fkONWxHfTBM"
+                },
+                {
+                    "titulo": "AULA 3: PONTO BAIXO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=J5vof2o91yM"
+                },
+                {
+                    "titulo": "Crochê: como fazer o  ponto alto - Pontos básicos do Crochê - passo a passo",
+                    "url": "https://www.youtube.com/watch?v=Xj2coYUm8ec"
+                },
+                {
+                    "titulo": "Meio Ponto Alto | Curso Amigurumi Básico #5",
+                    "url": "https://www.youtube.com/watch?v=pQQ5L7uJeI8"
+                },
+                {
+                    "titulo": "Como fazer o Ponto Arcada",
+                    "url": "https://www.youtube.com/watch?v=IIEERvLiRpU"
+                },
+                {
+                    "titulo": "FALSO PONTO ALTO EM CROCHÊ   #ALICEARTEIRA",
+                    "url": "https://www.youtube.com/watch?v=getdZ4Sr3vo"
+                }
+            ]
+        },
+        {
+            "titulo": "Crochê ponto baixo",
+            "cor": "red",
+            "link_extra": {
+                "text": "Croche de ponto baixo",
+                "url": "https://www.alura.com.br/formacao-jogos-unity"
+            },
+            "videos": [{
+                    "titulo": "AULA 3: PONTO BAIXO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=J5vof2o91yM"
+                },
+                {
+                    "titulo": "Como fazer o ponto BAIXO do crochê - Aula #4",
+                    "url": "https://www.youtube.com/watch?v=2c8XT1e3WdY"
+                },
+                {
+                    "titulo": "CROCHÊ PARA INICIANTES | Correntinha, ponto alto e ponto baixo",
+                    "url": "https://www.youtube.com/watch?v=j2aWuibgLSg"
+                },
+                {
+                    "titulo": "✿ Crochê :: Ponto Baixo",
+                    "url": "https://www.youtube.com/watch?v=IPUR2HXk3tE"
+                },
+                {
+                    "titulo": "Crochê para iniciantes - Aprenda Crochê do Zero - Pontos Básicos e Fundamentais por Marcelo Nunes",
+                    "url": "https://www.youtube.com/watch?v=cgiycyM5kFs"
+                },
+                {
+                    "titulo": "Pontos Básicos do Crochê - Ponto Baixo",
+                    "url": "https://www.youtube.com/watch?v=8m3N9fyVt0M"
+                },
+                {
+                    "titulo": "Ponto baixo em crochê - Início e final da volta sem aparecer!",
+                    "url": "https://www.youtube.com/watch?v=ahsJ_yg3kqw"
+                },
+                {
+                    "titulo": "Como fazer o ponto BAIXÍSSIMO do crochê - Aula #5",
+                    "url": "https://www.youtube.com/watch?v=U4IDpv5jf0I"
+                },
+                {
+                    "titulo": "✨Como fazer o ponto alto - Aula #2 | curso de crochê para iniciantes | passo a passo",
+                    "url": "https://www.youtube.com/watch?v=dKObA3-W1U0"
+                },
+                {
+                    "titulo": "Anel Mágico no Crochê - Aprendendo Crochê",
+                    "url": "https://www.youtube.com/watch?v=__8zgF7xX3w"
+                },
+                {
+                    "titulo": "COMO FAZER PONTO BAIXO CROCHÊ DE MODO CORRETO SEM ENVIESAR TUTORIAL MARLY THIBES",
+                    "url": "https://www.youtube.com/watch?v=epaR6bAN1kc"
+                },
+                {
+                    "titulo": "Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=ZQM1GS3uDz8"
+                },
+                {
+                    "titulo": "Ponto Médio, Alto, Alto Duplo e Triplo - Iniciando o Crochê",
+                    "url": "https://www.youtube.com/watch?v=CqtRSaiadP0"
+                },
+                {
+                    "titulo": "Crochê do zero para iniciantes / Pontos básicos que mais uso nas minhas peças .",
+                    "url": "https://www.youtube.com/watch?v=qUQgov3SJRY"
+                },
+                {
+                    "titulo": "Crochê para iniciantes, ponto nozinho",
+                    "url": "https://www.youtube.com/watch?v=ZkLSdjOkdRA"
+                },
+                {
+                    "titulo": "Ponto de crochê  Baixo X",
+                    "url": "https://www.youtube.com/watch?v=kH3cgA7wjVE"
+                },
+                {
+                    "titulo": "AULA 4: PONTO ALTO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=voNB2MvNxLU"
+                },
+                {
+                    "titulo": "CACHECOL  CROCHÊ PONTO BAIXO CANELADO TUTORIAL MARLY THIBES",
+                    "url": "https://www.youtube.com/watch?v=0OzzPlalCiY"
+                },
+                {
+                    "titulo": "Amigurumi - Passo 4: Ponto Baixo, Aumento e Diminuição",
+                    "url": "https://www.youtube.com/watch?v=3LYrYD1Yzks"
+                },
+                {
+                    "titulo": "Jogo de Cozinhɑ Retɑngulɑr Simples e Fácil",
+                    "url": "https://www.youtube.com/watch?v=IpPLfbUQF8E"
+                },
+                {
+                    "titulo": "Como fazer Tricô  para iniciantes",
+                    "url": "https://www.youtube.com/watch?v=d-yI719H1_I"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ FÁCIL E ECONÔMICO",
+                    "url": "https://www.youtube.com/watch?v=fkONWxHfTBM"
+                },
+                {
+                    "titulo": "Crochê para iniciantes em fio de malha - correntinha, ponto baixo e ponto alto",
+                    "url": "https://www.youtube.com/watch?v=-dohDTp18u4"
+                },
+                {
+                    "titulo": "Máscara de Crochê ♥️ novo modelo em ponto baixo",
+                    "url": "https://www.youtube.com/watch?v=tI4_DyFy4lk"
+                },
+                {
+                    "titulo": "Como fazer o Ponto Arcada",
+                    "url": "https://www.youtube.com/watch?v=IIEERvLiRpU"
+                },
+                {
+                    "titulo": "Ponto Baixo | Curso Amigurumi Básico #4",
+                    "url": "https://www.youtube.com/watch?v=1g5s9mB4C18"
+                }
+            ]
+        },
+        {
+            "titulo": "Crochê ponto baixíssimo",
+            "cor": "#6b5be2",
+            "link_extra": {
+                "text": "Croche de ponto baixíssimo",
+                "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+            },
+            "videos": [{
+                    "titulo": "AULA 6: PONTO BAIXÍSSIMO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=OxiEZmDIZZA"
+                },
+                {
+                    "titulo": "Como fazer o ponto BAIXÍSSIMO do crochê - Aula #5",
+                    "url": "https://www.youtube.com/watch?v=U4IDpv5jf0I"
+                },
+                {
+                    "titulo": "Pontos Básicos do Crochê - Ponto Baixíssimo",
+                    "url": "https://www.youtube.com/watch?v=8vtrxf6uX4E"
+                },
+                {
+                    "titulo": "Ponto Baixíssimo | Curso Amigurumi Básico #3",
+                    "url": "https://www.youtube.com/watch?v=zu1g9o2VyYg"
+                },
+                {
+                    "titulo": "Diferenças entre o ponto baixo e ponto baixíssimo",
+                    "url": "https://www.youtube.com/watch?v=xTWXePnMaJw"
+                },
+                {
+                    "titulo": "Como fazer o ponto BAIXO do crochê - Aula #4",
+                    "url": "https://www.youtube.com/watch?v=2c8XT1e3WdY"
+                },
+                {
+                    "titulo": "AULA 3: PONTO BAIXO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=J5vof2o91yM"
+                },
+                {
+                    "titulo": "CROCHÊ PARA INICIANTES | Correntinha, ponto alto e ponto baixo",
+                    "url": "https://www.youtube.com/watch?v=j2aWuibgLSg"
+                },
+                {
+                    "titulo": "PONTO BAIXÍSSIMO PARA INICIANTES - PONTOS INICIAS EM CROCHÊ",
+                    "url": "https://www.youtube.com/watch?v=FJbNUHHy1yY"
+                },
+                {
+                    "titulo": "Aula de crochê para iniciantes | Aprenda crochê do zero em 5 passos - JNY Crochê",
+                    "url": "https://www.youtube.com/watch?v=ZQM1GS3uDz8"
+                },
+                {
+                    "titulo": "Ponto Crochê Circular para Iniciantes - Acertos e Erros - Aula 5 - Ponto Baixíssimo - Graça Tristão",
+                    "url": "https://www.youtube.com/watch?v=azgcXwghMNw"
+                },
+                {
+                    "titulo": "✨Como fazer o ponto alto - Aula #2 | curso de crochê para iniciantes | passo a passo",
+                    "url": "https://www.youtube.com/watch?v=dKObA3-W1U0"
+                },
+                {
+                    "titulo": "AULA 1: KIT BÁSICO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=lgAarivNLJU"
+                },
+                {
+                    "titulo": "Ponto Médio, Alto, Alto Duplo e Triplo - Iniciando o Crochê",
+                    "url": "https://www.youtube.com/watch?v=CqtRSaiadP0"
+                },
+                {
+                    "titulo": "Amigurumi do Zero #1 - Materiais Básicos + Correntinha",
+                    "url": "https://www.youtube.com/watch?v=AilLf-Ql4iQ"
+                },
+                {
+                    "titulo": "AULA 4: PONTO ALTO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=voNB2MvNxLU"
+                },
+                {
+                    "titulo": "Crochê - Ponto Baixíssimo",
+                    "url": "https://www.youtube.com/watch?v=g-4APXSuy-4"
+                },
+                {
+                    "titulo": "Acabamento ponto baixíssimo fio de malha iniciante | Club da Edi",
+                    "url": "https://www.youtube.com/watch?v=0MbBLu0nja8"
+                },
+                {
+                    "titulo": "PONTO BAIXÍSSIMO SANFONADO CANELADO CROCHÊ TUTORIAL MARLY THIBES",
+                    "url": "https://www.youtube.com/watch?v=Defn30zr_i4"
+                },
+                {
+                    "titulo": "Jogo de Cozinhɑ Retɑngulɑr Simples e Fácil",
+                    "url": "https://www.youtube.com/watch?v=IpPLfbUQF8E"
+                },
+                {
+                    "titulo": "CROCHE - CORRENTE, CORRENTINHA OU PONTO CORRENTE",
+                    "url": "https://www.youtube.com/watch?v=veyh7df1uLw"
+                },
+                {
+                    "titulo": "TAPETE DE CROCHÊ FÁCIL E ECONÔMICO",
+                    "url": "https://www.youtube.com/watch?v=fkONWxHfTBM"
+                },
+                {
+                    "titulo": "Como fazer ponto baixíssimo e ponto baixo em crochê",
+                    "url": "https://www.youtube.com/watch?v=YAJwROI-Uwo"
+                },
+                {
+                    "titulo": "AULA 5: MEIO PONTO ALTO | AULA DE CROCHÊ PARA INICIANTES",
+                    "url": "https://www.youtube.com/watch?v=KETfpt3qopo"
+                },
+                {
+                    "titulo": "Pontos de Crochê - Ponto Baixíssimo",
+                    "url": "https://www.youtube.com/watch?v=7s8RmBGmGvY"
+                },
+                {
+                    "titulo": "Ponto Baixo | Curso Amigurumi Básico #4",
+                    "url": "https://www.youtube.com/watch?v=1g5s9mB4C18"
+                }
+            ]
+        }
+    ]
+}
