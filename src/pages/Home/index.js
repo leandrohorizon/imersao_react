@@ -7,7 +7,7 @@ import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
 
-import dados from '../../data/dados_iniciais.json';
+import dados from '../../data/videos_croche.json';
 
 function Home() {
   return (
