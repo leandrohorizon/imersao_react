@@ -1,6 +1,6 @@
 const URL = window.location.hostname.includes('localhost')
-    ? 'http://localhost:8081'
-    : 'https://nexflit.herokuapp.com/';
+    ? 'https://nexflit.herokuapp.com'
+    : 'http://localhost:8081';
 
 export default {
     URL,
