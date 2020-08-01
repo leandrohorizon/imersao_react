@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import Template from '../../../components/Template';
 import { Link } from 'react-router-dom';
 import FormField from '../../../components/FormField';
-import Button from '../../../components/Button'
-
-
+import Button from '../../../components/Button';
+import useForm from '../../../hooks/useForm';
+import categoriasRepository from '../../../api/categorias'
 
 function CadastrarCategoria(){
     const valoresIniciais = {
@@ -12,27 +12,16 @@ function CadastrarCategoria(){
         descricao: '',
         cor: ''
     }
-    
-    const [ valores, setValores ] = useState([valoresIniciais]);
+
     const [ categorias, setCategorias ] = useState([]);
-
-    function setValor(e){
-        // setValores({...valores, nome: e.target.value})
-
-        const chave = e.target.getAttribute('name');
-        const valor = e.target.value;
-        setValores({
-            ...valores,
-            [chave]: valor
-        })
-
-    }
+    const {setValor, valores, clearForm} = useForm(valoresIniciais);
 
     function criarCategoria(e){
         e.preventDefault();
         setCategorias([
             ...categorias, valores
         ]);
+        clearForm();
     }
 
     useEffect(()=>{
@@ -75,7 +64,7 @@ function CadastrarCategoria(){
                 {categorias.map((categoria, index)=>{
                     return(
                         <li key={index}>
-                            {categoria.nome}
+                            {categoria.titulo}
                         </li>
                     )
                 })}

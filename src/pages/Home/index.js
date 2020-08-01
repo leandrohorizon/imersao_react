@@ -1,36 +1,60 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 import '../../index.css';
 
-import Menu from '../../components/Menu';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
-import Footer from '../../components/Footer';
+import Template from '../../components/Template';
 
-import dados from '../../data/videos_croche.json';
+// import dados from '../../data/videos_croche.json';
+import categoriasRepository from '../../api/categorias'
+
+
 
 function Home() {
+  const [dados, setDadosIniciais] = useState({
+
+  })
+
+  useEffect(() =>{
+    categoriasRepository.getAll()
+      .then((d)=> {
+        setDadosIniciais(d)})
+      .catch((err)=>alert(err))
+  }, [])
   return (
-    <div>
-      <Menu />
-      <BannerMain 
-        video={dados.categorias[0].videos[0]}
-      />
-      
-      {dados.categorias.map((categoria, index) =>{
-        console.log(categoria);
+    <Template paddingAll={0}>
+      {!dados[0] && (<div>Espera um pouco mãe...</div>)}
+
+      {dados.length >= 1 && dados.map((categoria, index) =>{
         if(index === 0){
           return(
-            <Carousel key={categoria.titulo} category={categoria} ignoreFirstVideo/>
+            <>
+              <BannerMain 
+                video={dados[0].videos[0]}
+              />
+              <Carousel 
+                key={categoria.titulo}
+                category={categoria}
+                ignoreFirstVideo
+              />
+            </>
           )  
         }
         return(
-          <Carousel key={categoria.titulo} category={categoria}/>
+          <Carousel 
+            key={categoria.titulo}
+            category={categoria}
+          />
+      
         )
       })}
       
-      <Footer/>
-    </div>
+      
+      
+     
+      
+    </Template>
   );
 }
 

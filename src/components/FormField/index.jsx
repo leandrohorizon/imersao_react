@@ -71,15 +71,31 @@ const Input = styled.input`
 `;
 
 
-function FormField({children, type, name, onChange, as, value}){
+function FormField({children, type, name, onChange, as, value, suggestions}){
     const fieldId =`id_${name}`;
-    const tag = type === 'textarea' ? 'textarea' : 'input';
+    const isTypeTextarea = type === 'textarea';
+    const hasSuggestions = Boolean(suggestions.length)
+    const tag = isTypeTextarea ? 'textarea' : 'input';
 
     return(
         <FormFieldWrapper>
-            <Input as={tag} id={fieldId} type={type} name={name} value={value} onChange={onChange}
+            <Input as={tag} id={fieldId} type={type} name={name} value={value} onChange={onChange} autoComplete={hasSuggestions ? 'off' : 'on'} list={`suggestionFor_${fieldId}`}
             />
             <Label.Text>{children}</Label.Text>
+
+            {
+              hasSuggestions && (
+                <datalist id={`suggestionFor_${fieldId}`}>
+                  {
+                  suggestions.map((suggestion) => (
+                    <option value={suggestion} key={`suggestionFor_${fieldId}_option`}>
+                      {suggestion}
+                    </option>
+                  ))}
+                </datalist>
+              )
+            }
+            
         </FormFieldWrapper>
     );
 }
@@ -87,7 +103,8 @@ function FormField({children, type, name, onChange, as, value}){
 FormField.defaultProps ={
     type: 'text',
     as: 'input',
-    onChange: () => {}
+    onChange: () => {},
+    suggestions: []
 }
 
 FormField.propsTypes = {
@@ -95,6 +112,7 @@ FormField.propsTypes = {
     type: PropsTypes.string, //defaultProps define se n for preenchido
     name: PropsTypes.string.isRequired,
     onChange: PropsTypes.func,
+    suggestions: PropsTypes.arrayOf(PropsTypes.string)
 }
 
 export default FormField;
