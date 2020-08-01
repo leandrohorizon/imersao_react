@@ -24,18 +24,25 @@ function CadastrarCategoria(){
         clearForm();
     }
 
+    // useEffect(()=>{
+    //     const URL = 'http://localhost:8081/categorias'
+    //     fetch(URL)
+    //         .then(async (resp)=>{
+    //             const respostas = await resp.json();
+    //             setCategorias([
+    //                 ...respostas
+    //             ])
+    //         });
+    // }, [
+    //     //values.nome atualiza somente aqui
+    // ]);
+
     useEffect(()=>{
-        const URL = 'http://localhost:8081/categorias'
-        fetch(URL)
-            .then(async (resp)=>{
-                const respostas = await resp.json();
-                setCategorias([
-                    ...respostas
-                ])
-            });
-    }, [
-        //values.nome atualiza somente aqui
-    ]);
+        categoriasRepository.getAll()
+            .then((categoriasFromServer)=>{
+                setCategorias(categoriasFromServer);
+            })
+    },[]);
 
     return(
         <Template>
