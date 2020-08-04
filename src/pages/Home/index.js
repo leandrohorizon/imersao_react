@@ -4,6 +4,7 @@ import '../../index.css';
 
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
+import Display from '../../components/Display';
 import Template from '../../components/Template';
 
 // import dados from '../../data/videos_croche.json';
@@ -27,11 +28,13 @@ function Home() {
       {!dados[0] && (<div>Espera um pouco mãe...</div>)}
 
       {dados.length >= 1 && dados.map((categoria, index) =>{
-        if(index === 0){
+        for(let i = 0; i < dados.length; i+= 2)
+        if(index === i){
+          const video = dados[index].videos[0];
           return(
             <>
               <BannerMain 
-                video={dados[0].videos[0]}
+                video={video}
               />
               <Carousel 
                 key={categoria.titulo}

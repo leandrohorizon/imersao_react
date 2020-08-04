@@ -1,5 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { VideoCardContainer } from './styles';
+import Iframe from '../../../Iframe'
+import Title from './Title';
 
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -10,19 +12,29 @@ function getYouTubeId(youtubeURL) {
 }
 
 
-function VideoCard({ videoTitle, videoURL, categoryColor }) {
+function VideoCard({ videoTitle, videoURL, categoryColor, onMouseOver, onMouseOut, children }) {
   const image = `https://img.youtube.com/vi/${getYouTubeId(videoURL)}/hqdefault.jpg`;
+
+  const [ddisplay, setDisplay] = useState('none');
+
   return (
+    <>
+    <div>
+    </div>
     <VideoCardContainer
       url={image}
       href={videoURL}
       target="_blank"
-      style={{ borderColor: categoryColor || 'red' }}
+      // style={{ borderColor: categoryColor || 'red' }}
       title={videoTitle}
-      onMouseOver={previewVideo}
-    >
-      <span>{videoTitle}</span>
+      onMouseOver={onMouseOver}
+      onMouseOut={onMouseOut}
+      >
+      {children}
+      
+      <Title color={categoryColor}>{videoTitle}</Title>
     </VideoCardContainer>
+    </>
   );
 }
 

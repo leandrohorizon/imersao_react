@@ -4,8 +4,9 @@ import SlickSlider from 'react-slick';
 import styled from 'styled-components';
 
 const Container = styled.ul`
-  padding: 0;
+  padding: 20px 0;
   margin: 0;
+  background-color: black;
   .slick-prev,
   .slick-next {
     z-index: 50;
@@ -15,6 +16,7 @@ const Container = styled.ul`
     width: 30px;
     height: 30px;
     transform: initial;
+    
     &:before {
       font-size: 30px;
     }
